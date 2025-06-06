@@ -1,16 +1,13 @@
-## Hi there 👋
+                   _ |\_
+                   \` ..\
+              __,.-" =__Y=
+            ."        )
+      _    /   ,    \/\_
+     ((____|    )_-\ \_-`
+     `-----'`-----` `--`
 
-<!--
-**chocolatemilq/chocolatemilq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(っ◔◡◔)っ ♥ Working to contribute to open source projects ♥
+- C++, Java, HTML/CSS
+- Spanish/English Translations
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(っ◔◡◔)っ ♥ And posting little projects of mine ♥
